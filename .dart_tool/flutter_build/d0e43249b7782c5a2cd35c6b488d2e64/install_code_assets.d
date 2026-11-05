@@ -1,0 +1,1 @@
+ /home/carlos/agenda_belem/.dart_tool/flutter_build/d0e43249b7782c5a2cd35c6b488d2e64/native_assets.json: 

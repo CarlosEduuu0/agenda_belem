@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369451714417",
+    "project_id": "agenda-belem-d4087",
+    "storage_bucket": "agenda-belem-d4087.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369451714417:android:5e8bc00992bd56556218d0",
+        "android_client_info": {
+          "package_name": "com.example.agenda_belem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6B9TdxFjVWJbMFikdkT22Xjfw2oFCbd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
